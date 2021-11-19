@@ -42,6 +42,27 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 <img src="CodeLens.gif" width="1000" height="580">
 
 ## Étape 6 : Faire fonctionner le programme
+<img src="FirstRunAttempt.gif" width="1000" height="580">
+
+<img src="Generate.gif" width="1000" height="580">
+
+<img src="externalTerminal.gif" width="1000" height="580">
+
+**Déboguer**
+: Identification et élimination des erreurs dans un logiciel.
+
+<img src="ReadKey.gif" width="1000" height="580">
+
+<img src="ProgramRunning.gif" width="1000" height="580">
+
+### Merci! 😄
+
+
+
+
+
+
+
 
 
 
