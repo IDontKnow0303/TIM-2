@@ -2,5 +2,5 @@
 
 ## Étape 1 : Installer .NET et Visual Studio Code
 ![.NET](.NET.jpg)
-![VSC](
+![VSC](VSC.png)
 
