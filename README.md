@@ -27,6 +27,10 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 **Terminal**
 : Une interface qui permet d'entrer des commandes.
 
+<img src="Terminal.gif" width="1000" height="580">
+<img src="NouveauProjet.gif" width="1000" height="580">
+
+
 
 
 
