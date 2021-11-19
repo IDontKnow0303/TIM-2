@@ -19,5 +19,8 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 
 <img src="Extension2.gif" width="1000" height="580">
 
+## Étape 3 : Créer un nouveau dossier et l'ouvrir sur Visual Studio Code
+
+
 
 
