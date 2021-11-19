@@ -13,5 +13,7 @@
 - Peut être utilisé pour programmer en plusieurs langages informatiques
 
 ## Étape 2 : Installer des extensions
-Visual Studio Code ne vient pas accomapgné des outils nécessaires pour programmer, alors il faut installer des extensions.
+Visual Studio Code ne vient pas accompagné des outils nécessaires pour programmer, donc il faut aller chercher des extensions.
+
+
 
