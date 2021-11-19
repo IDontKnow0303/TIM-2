@@ -1,7 +1,7 @@
 # Premiers pas avec Visual Code Studio et C#?
 
 ## Étape 1 : Installer .NET et Visual Studio Code
-<img src="dotNET.jpg" width="300" height="180">
+<img src="dotNET.jfif" width="300" height="180">
 <img src="VSC.png" width="180" height="180">
 
 **Framework**
