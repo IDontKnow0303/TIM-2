@@ -16,7 +16,7 @@
 Visual Studio Code ne vient pas accompagné des outils nécessaires pour programmer, donc il faut aller chercher des extensions. 
 ![Installer des extensions](Extension1.gif)
 
-<img src="Extension2.gif" width="300" height="180">
+<img src="Extension2.gif" width="400" height="280">
 
 
 
