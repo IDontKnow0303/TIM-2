@@ -41,6 +41,8 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 
 <img src="CodeLens.gif" width="1000" height="580">
 
+## Étape 6 : Faire fonctionner le programme
+
 
 
 
