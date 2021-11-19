@@ -37,6 +37,13 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 
 ## Étape 5 : Ajuster les paramètres d'utilisateur 
 
+<img src="TailleCaractère.gif" width="1000" height="580">
+
+<img src="CodeLens.gif" width="1000" height="580">
+
+
+
+
 
 
 
