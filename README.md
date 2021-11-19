@@ -23,6 +23,11 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 <img src="CréerDossier.gif" width="1000" height="580">
 <img src="OuvrirDossierVSC.gif" width="1000" height="580">
 
+## Étape 4 : Créer un projet à l'intérieur du dossier TIM
+**Terminal**
+: Une interface qui permet d'entrer des commandes.
+
+
 
 
 
