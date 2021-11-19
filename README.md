@@ -15,7 +15,7 @@
 ## Étape 2 : Installer des extensions
 Visual Studio Code ne vient pas accompagné des outils nécessaires pour programmer, donc il faut aller chercher des extensions. 
 ![Installer des extensions](Extension1.gif)
-![Visual Code Studio Icon](Extension2.gif)
+<img src="Extension2.gif" width="300" height="180">
 
 
 
