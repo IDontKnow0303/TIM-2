@@ -1,4 +1,4 @@
-# Comment faire fonctionner un programme?
+# Premiers pas avec Visual Code Studio et C#?
 
 ## Étape 1 : Installer .NET et Visual Studio Code
 <img src=".NET.jpg" width="300" height="180">
