@@ -28,6 +28,11 @@ Visual Studio Code ne vient pas accompagné des outils nécessaires pour program
 : Une interface qui permet d'entrer des commandes.
 
 <img src="Terminal.gif" width="1000" height="580">
+
+
+**Console**
+: Une interface qui permet une communication entre le système et l'utilisateur. L'information transmise par le système est qualifiée de ***output*** et celle que qui est entrée par l'utilisateur est connu sous le terme ***input***.
+
 <img src="NouveauProjet.gif" width="1000" height="580">
 
 
